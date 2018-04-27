@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">여기로</string>
+    <string name="google_app_key">AIzaSyBxJHqlWpAR07PHGxWmNO-OIdlF_huPDV0</string>
+    <string name="google_web_client_id">986108006783-ml19jbka3hebu1f4615a1o7t2qnto29k.apps.googleusercontent.com</string>
+    <string name="t_map_api_key">3ca26131-e9e5-483e-8df4-051ab3f12526</string>
+    <string name="login">로그인</string>
+    <string name="create_account">회원가입</string>
+    <string name="logout">로그아웃</string>
+    <string name="hint_id">이메일주소</string>
+    <string name="hint_password">암호 : 6글자이상 영문 숫자</string>
+
+    <string name="friend">친구</string>
+    <string name="friend_find">친구맺기</string>
+    <string name="settings">설정</string>
+
+    <string name="friend_empty">등록한 친구가 없습니다.</string>
+    <string name="friend_find_empty">등록가능한 친구가 없습니다.</string>
+
+    <string name="facebook_app_id">228483021245537</string>
+    <string name="fb_login_protocol_scheme">fb228483021245537</string>
+</resources>
